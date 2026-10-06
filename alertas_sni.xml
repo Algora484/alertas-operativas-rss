@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>Alertas Operativas SNI - Produbanco</title>
+    <title>Boletín Operativo SNI - Produbanco</title>
     <link>https://tu-dashboard-streamlit.app</link>
-    <description>Monitoreo automatizado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 06 Oct 2026 19:48:09 GMT</pubDate>
+    <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
+    <pubDate>Tue, 06 Oct 2026 20:08:37 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Estado Energético Actual</title>
+        <title>Informe Operativo Diario SNI - 2026-10-06</title>
         <link>https://tu-dashboard-streamlit.app</link>
-        <description>[CRÍTICO] Riesgo: Cota Mazar en 2,132.10. Alta probabilidad de cortes programados.</description>
-        <pubDate>Tue, 06 Oct 2026 19:48:09 GMT</pubDate>
+        <description><![CDATA[
+        <b>1. ESTADO DEL SNI Y ALERTAS</b><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,132.10. Alta probabilidad de cortes programados.<br><br>
+        
+        <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
+        - Producción Total: 59,215 MWh<br>
+        - Generación Hidráulica: 43,229 MWh<br>
+        - Generación Térmica: 15,492 MWh<br>
+        - Demanda Máxima Registrada: 4,675 MW<br>
+        - Cota Mazar (Promedio): 2,132.10 m.s.n.m.<br><br>
+        
+        <hr>
+        <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 44.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 29.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 21.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 47.9 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 82.3 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 46.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 6.2 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Loja (Sur): Lluvia acumulada 3 días: 5.6 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 11.9 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
+        
+        <hr>
+        <b>4. REPORTE SÍSMICO REGIONAL</b><br>
+        === REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 15 km SW of San Antonio, Colombia | Fecha: 2026-09-29 21:50:29<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 96 km ENE of Alianza Cristiana, Peru | Fecha: 2026-09-29 10:22:14<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km SW of Sipí, Colombia | Fecha: 2026-09-27 21:57:52<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km W of Roncesvalles, Colombia | Fecha: 2026-09-26 06:38:19<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 39 km WSW of Sipí, Colombia | Fecha: 2026-09-25 00:57:07<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km NNW of Rioblanco, Colombia | Fecha: 2026-09-24 16:46:31<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 9 km S of San Antonio, Colombia | Fecha: 2026-09-23 20:09:44<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km WSW of Roncesvalles, Colombia | Fecha: 2026-09-22 22:12:26<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 1 km SE of San Antonio, Colombia | Fecha: 2026-09-21 18:48:44<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 4 km W of Victor Raul, Peru | Fecha: 2026-09-21 03:58:24<br><br>
+        
+        <hr>
+        <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. El parque industrial de Durán registró una desconexión eléctrica de más de 72 horas<br>   Enlace: https://www.primicias.ec/economia/parque-industrial-duran-guayas-cortes-luz-desconexiones-electricas-crisis-energetica-valor-agregado-pib-134208/<br>2. Sector industrial tiene 48 horas de racionamientos programados<br>   Enlace: https://www.ecuavisa.com/video/Sector-industrial-tiene-48-horas-de-racionamientos-programados-ve202610050011.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Gobierno de Ecuador anuncia la eliminación del IVA e ISD para importar equipos de generación eléctrica<br>   Enlace: https://www.primicias.ec/economia/ecuador-eliminacion-iva-isd-importar-equipos-generacion-electrica-134198/<br>2. Benjamín Netanyahu advierte a Hamás de represalias si intentan algún ataque ante de elecciones<br>   Enlace: https://www.eluniverso.com/internacional/asia/benjamin-netanyahu-advierte-a-hamas-de-represalias-si-intentan-algun-ataque-ante-de-elecciones-nota/<br>3. Ecuador necesita más de tres semanas de lluvias continuas para recuperar los niveles de Mazar<br>   Enlace: https://www.ecuavisa.com/la-noticia-a-fondo/ecuador-necesita-tres-semanas-de-lluvias-recuperar-mazar-20261005-0050.html<br>4. Gobierno elimina el IVA para importar generadores eléctricos<br>   Enlace: https://www.ecuavisa.com/video/Gobierno-elimina-el-IVA-para-importar-generadores-electricos-ve202610050019.html<br>
+        ]]></description>
+        <pubDate>Tue, 06 Oct 2026 20:08:37 GMT</pubDate>
     </item>
 
-    <item>
-        <title>Reporte Sísmico Regional</title>
-        <link>https://tu-dashboard-streamlit.app</link>
-        <description><![CDATA[=== REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 15 km SW of San Antonio, Colombia | Fecha: 2026-09-29 21:50:29<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 96 km ENE of Alianza Cristiana, Peru | Fecha: 2026-09-29 10:22:14<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km SW of Sipí, Colombia | Fecha: 2026-09-27 21:57:52<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km W of Roncesvalles, Colombia | Fecha: 2026-09-26 06:38:19<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 39 km WSW of Sipí, Colombia | Fecha: 2026-09-25 00:57:07<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km NNW of Rioblanco, Colombia | Fecha: 2026-09-24 16:46:31<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 9 km S of San Antonio, Colombia | Fecha: 2026-09-23 20:09:44<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km WSW of Roncesvalles, Colombia | Fecha: 2026-09-22 22:12:26<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 1 km SE of San Antonio, Colombia | Fecha: 2026-09-21 18:48:44<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 4 km W of Victor Raul, Peru | Fecha: 2026-09-21 03:58:24<br>]]></description>
-        <pubDate>Tue, 06 Oct 2026 19:48:09 GMT</pubDate>
-    </item>
 </channel>
 </rss>

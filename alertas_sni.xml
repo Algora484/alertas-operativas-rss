@@ -2,17 +2,19 @@
 <rss version="2.0">
 <channel>
     <title>Boletín Operativo SNI - Produbanco</title>
-    <link>https://tu-dashboard-streamlit.app</link>
+    
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 06 Oct 2026 20:08:37 GMT</pubDate>
+    <pubDate>Tue, 06 Oct 2026 20:21:18 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
         <title>Informe Operativo Diario SNI - 2026-10-06</title>
-        <link>https://tu-dashboard-streamlit.app</link>
+        
         <description><![CDATA[
-        <b>1. ESTADO DEL SNI Y ALERTAS</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,132.10. Alta probabilidad de cortes programados.<br><br>
+        <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
+        [ALERTA] Riesgo: Cota Mazar en 2,132.10. Monitoreo preventivo por niveles ajustados.<br><br>
+        
+
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
         - Producción Total: 59,215 MWh<br>
@@ -33,7 +35,7 @@
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
         <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. El parque industrial de Durán registró una desconexión eléctrica de más de 72 horas<br>   Enlace: https://www.primicias.ec/economia/parque-industrial-duran-guayas-cortes-luz-desconexiones-electricas-crisis-energetica-valor-agregado-pib-134208/<br>2. Sector industrial tiene 48 horas de racionamientos programados<br>   Enlace: https://www.ecuavisa.com/video/Sector-industrial-tiene-48-horas-de-racionamientos-programados-ve202610050011.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Gobierno de Ecuador anuncia la eliminación del IVA e ISD para importar equipos de generación eléctrica<br>   Enlace: https://www.primicias.ec/economia/ecuador-eliminacion-iva-isd-importar-equipos-generacion-electrica-134198/<br>2. Benjamín Netanyahu advierte a Hamás de represalias si intentan algún ataque ante de elecciones<br>   Enlace: https://www.eluniverso.com/internacional/asia/benjamin-netanyahu-advierte-a-hamas-de-represalias-si-intentan-algun-ataque-ante-de-elecciones-nota/<br>3. Ecuador necesita más de tres semanas de lluvias continuas para recuperar los niveles de Mazar<br>   Enlace: https://www.ecuavisa.com/la-noticia-a-fondo/ecuador-necesita-tres-semanas-de-lluvias-recuperar-mazar-20261005-0050.html<br>4. Gobierno elimina el IVA para importar generadores eléctricos<br>   Enlace: https://www.ecuavisa.com/video/Gobierno-elimina-el-IVA-para-importar-generadores-electricos-ve202610050019.html<br>
         ]]></description>
-        <pubDate>Tue, 06 Oct 2026 20:08:37 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 20:21:18 GMT</pubDate>
     </item>
 
 </channel>

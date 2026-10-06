@@ -4,21 +4,21 @@
     <title>Alertas Operativas SNI - Produbanco</title>
     <link>https://tu-dashboard-streamlit.app</link>
     <description>Monitoreo automatizado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 06 Oct 2026 19:41:42 GMT</pubDate>
+    <pubDate>Tue, 06 Oct 2026 19:42:32 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
         <title>Estado Energético Actual</title>
         <link>https://tu-dashboard-streamlit.app</link>
         <description>[ERROR] Lectura en 0. Revisar la estructura del archivo JSON.</description>
-        <pubDate>Tue, 06 Oct 2026 19:41:42 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 19:42:32 GMT</pubDate>
     </item>
 
     <item>
         <title>Reporte Sísmico Regional</title>
         <link>https://tu-dashboard-streamlit.app</link>
         <description><![CDATA[=== REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 15 km SW of San Antonio, Colombia | Fecha: 2026-09-29 21:50:29<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 96 km ENE of Alianza Cristiana, Peru | Fecha: 2026-09-29 10:22:14<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km SW of Sipí, Colombia | Fecha: 2026-09-27 21:57:52<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km W of Roncesvalles, Colombia | Fecha: 2026-09-26 06:38:19<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 39 km WSW of Sipí, Colombia | Fecha: 2026-09-25 00:57:07<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km NNW of Rioblanco, Colombia | Fecha: 2026-09-24 16:46:31<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 9 km S of San Antonio, Colombia | Fecha: 2026-09-23 20:09:44<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 25 km WSW of Roncesvalles, Colombia | Fecha: 2026-09-22 22:12:26<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 1 km SE of San Antonio, Colombia | Fecha: 2026-09-21 18:48:44<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 4 km W of Victor Raul, Peru | Fecha: 2026-09-21 03:58:24<br>]]></description>
-        <pubDate>Tue, 06 Oct 2026 19:41:42 GMT</pubDate>
+        <pubDate>Tue, 06 Oct 2026 19:42:32 GMT</pubDate>
     </item>
 </channel>
 </rss>

@@ -4,28 +4,28 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 06 Oct 2026 20:25:33 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 13:00:02 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-06</title>
+        <title>Informe Operativo Diario SNI - 2026-10-07</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,132.10. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,131.75. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 59,215 MWh<br>
-        - Generación Hidráulica: 43,229 MWh<br>
-        - Generación Térmica: 15,492 MWh<br>
-        - Demanda Máxima Registrada: 4,675 MW<br>
-        - Cota Mazar (Promedio): 2,132.10 m.s.n.m.<br><br>
+        - Producción Total: 23,011 MWh<br>
+        - Generación Hidráulica: 16,644 MWh<br>
+        - Generación Térmica: 6,229 MWh<br>
+        - Demanda Máxima Registrada: 3,547 MW<br>
+        - Cota Mazar (Promedio): 2,131.75 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 44.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 29.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 21.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 47.9 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 82.3 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 46.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 6.2 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Loja (Sur): Lluvia acumulada 3 días: 5.6 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 11.9 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 58.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 9.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 21.1 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 33.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 189.0 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 62.6 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 24.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 6.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 8.9 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
@@ -33,9 +33,9 @@
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. El parque industrial de Durán registró una desconexión eléctrica de más de 72 horas<br>   Enlace: https://www.primicias.ec/economia/parque-industrial-duran-guayas-cortes-luz-desconexiones-electricas-crisis-energetica-valor-agregado-pib-134208/<br>2. Sector industrial tiene 48 horas de racionamientos programados<br>   Enlace: https://www.ecuavisa.com/video/Sector-industrial-tiene-48-horas-de-racionamientos-programados-ve202610050011.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Gobierno de Ecuador anuncia la eliminación del IVA e ISD para importar equipos de generación eléctrica<br>   Enlace: https://www.primicias.ec/economia/ecuador-eliminacion-iva-isd-importar-equipos-generacion-electrica-134198/<br>2. Benjamín Netanyahu advierte a Hamás de represalias si intentan algún ataque ante de elecciones<br>   Enlace: https://www.eluniverso.com/internacional/asia/benjamin-netanyahu-advierte-a-hamas-de-represalias-si-intentan-algun-ataque-ante-de-elecciones-nota/<br>3. Ecuador necesita más de tres semanas de lluvias continuas para recuperar los niveles de Mazar<br>   Enlace: https://www.ecuavisa.com/la-noticia-a-fondo/ecuador-necesita-tres-semanas-de-lluvias-recuperar-mazar-20261005-0050.html<br>4. Gobierno elimina el IVA para importar generadores eléctricos<br>   Enlace: https://www.ecuavisa.com/video/Gobierno-elimina-el-IVA-para-importar-generadores-electricos-ve202610050019.html<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Ambato tendrá apagón industrial de 48 horas<br>   Enlace: https://www.ecuavisa.com/video/Ambato-tendra-apagon-industrial-de-48-horas-ve202610060019.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Se habilitan 4.000 cupos para terminar el colegio en modalidad virtual; la matrícula es gratuita<br>   Enlace: https://www.primicias.ec/sociedad/educacion-virtual-colegio-ecuador-requisitos-matriculas-gratuitas-134348/<br>2. Generación privada sin tributos<br>   Enlace: https://www.eluniverso.com/opinion/editoriales/generacion-privada-sin-tributos-nota/<br>3. Mazar vuelve a perder parte del agua que ganó el fin de semana por la demanda eléctrica<br>   Enlace: https://www.ecuavisa.com/ecuador/mazar-embalse-nivel-agua-demanda-energia-20261006-0092.html<br>4. Consumo eléctrico en Ecuador: cuánto demandan hogares, industrias y comercios<br>   Enlace: https://www.ecuavisa.com/economia/consumo-electricidad-ecuador-hogares-industrias-deficit-20261006-0094.html<br>5. Abren cerca de 4.000 cupos para terminar el colegio de manera virtual: así puedes matricularte<br>   Enlace: https://www.vistazo.com/servicios/2026-10-06-abren-4-000-cupos-terminar-colegio-manera-virtual-asi-puede-matricularse-BE11264858<br>6. A través de pago electrónico se podrá acceder a buses urbanos de Guayaquil<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-06-pago-electronico-acceder-buses-urbanos-guayaquil-FE11264643<br>7. La planta de generación solar Río de Oro Energy ya abastece al sector empresarial<br>   Enlace: https://www.vistazo.com/negocios/2026-10-06-planta-generacion-solar-rio-oro-energy-abastece-sector-empresarial-EE11264011<br>
         ]]></description>
-        <pubDate>Tue, 06 Oct 2026 20:25:33 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 13:00:02 GMT</pubDate>
     </item>
 
 </channel>

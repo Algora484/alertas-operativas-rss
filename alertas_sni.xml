@@ -4,28 +4,28 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Thu, 08 Oct 2026 13:00:02 GMT</pubDate>
+    <pubDate>Fri, 09 Oct 2026 13:00:02 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-08</title>
+        <title>Informe Operativo Diario SNI - 2026-10-09</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,130.74. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,129.28. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 23,224 MWh<br>
-        - Generación Hidráulica: 16,843 MWh<br>
-        - Generación Térmica: 6,240 MWh<br>
-        - Demanda Máxima Registrada: 3,517 MW<br>
-        - Cota Mazar (Promedio): 2,130.74 m.s.n.m.<br><br>
+        - Producción Total: 23,294 MWh<br>
+        - Generación Hidráulica: 17,994 MWh<br>
+        - Generación Térmica: 5,147 MWh<br>
+        - Demanda Máxima Registrada: 3,457 MW<br>
+        - Cota Mazar (Promedio): 2,129.28 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 66.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 15.1 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 14.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Machala (El Oro): Lluvia acumulada 3 días: 32.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 57.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 52.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 39.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 15.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 14.6 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 52.0 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 17.1 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 44.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 31.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 55.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 49.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 31.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 18.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 7.1 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
@@ -33,9 +33,9 @@
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>✅ No se detectaron anuncios de cortes o emergencias en los últimos 3 días.<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. ¿Cómo se producen las baterías para autos eléctricos? Los secretos de Ningde, la ciudad china que es epicentro mundial de su fabricación<br>   Enlace: https://www.primicias.ec/economia/baterias-autos-electricos-ningde-ciudad-china-134302/<br>2. Granizada y tormenta eléctrica en Quito provocan cierres viales y daños materiales<br>   Enlace: https://www.ecuavisa.com/quito/lluvia-granizo-tormenta-electrica-quito-7-octubre-20261007-0073.html<br>3. Ecuador refuerza la generación térmica ante el avance del estiaje<br>   Enlace: https://www.ecuavisa.com/ecuador/ecuador-generacion-termoelectrica-estiaje-20261007-0060.html<br>4. Ecuador no tendrá energía de Colombia para paliar la escasez<br>   Enlace: https://www.ecuavisa.com/video/Ecuador-no-tendra-energia-de-Colombia-para-paliar-la-escasez-ve202610070013.html<br>5. Intermitencias en el sistema de la Agencia Nacional de Tránsito generan demoras en trámites en todo el país<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-06-intermitencias-sistema-ant-generan-demoras-tramites-ecuador-AE11264325<br>6. Ecuador enfrenta el estiaje sin electricidad de Colombia: exportaciones están en cero<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-07-ecuador-enfrenta-estiaje-sin-electricidad-colombia-exportaciones-en-cero-ME11266129<br>7. La planta de generación solar Río de Oro Energy ya abastece al sector empresarial<br>   Enlace: https://www.vistazo.com/negocios/2026-10-06-planta-generacion-solar-rio-oro-energy-abastece-sector-empresarial-EE11264011<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Ministerio de Energía anuncia que las industrias tendrán desconexiones eléctricas de tres días a la semana desde el 12 de octubre<br>   Enlace: https://www.primicias.ec/economia/industrias-desconexiones-ministerio-energia-electricidad-luz-134548/<br>2. Gobierno amplía los apagones a tres días por semana a Industriales Alto Voltaje 1 y Medio Voltaje Industrial<br>   Enlace: https://www.ecuavisa.com/ecuador/gobierno-amplia-apagones-tres-dias-semana-industriales-20261008-0067.html<br>3. Ecuador amplía cortes de luz a industrias de 48 a 72 horas semanales desde el 12 de octubre<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-08-ecuador-amplia-cortes-luz-industrias-48-72-horas-semanales-12-de-octubre-FE11268638<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Así funcionarán los terminales de Guayaquil que esperan a 200.000 pasajeros en el feriado del 9 de octubre<br>   Enlace: https://www.primicias.ec/guayaquil/feriado-9octubre-terminal-terrestre-via-costa-pascuales-atencion-pasajeros-134479/<br>2. Intermitencias en el sistema de la Agencia Nacional de Tránsito generan demoras en trámites en todo el país<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-06-intermitencias-sistema-ant-generan-demoras-tramites-ecuador-AE11264325<br>
         ]]></description>
-        <pubDate>Thu, 08 Oct 2026 13:00:02 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 13:00:02 GMT</pubDate>
     </item>
 
 </channel>

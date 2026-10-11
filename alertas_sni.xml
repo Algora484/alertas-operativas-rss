@@ -4,38 +4,38 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Sat, 10 Oct 2026 13:00:02 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 13:00:01 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-10</title>
+        <title>Informe Operativo Diario SNI - 2026-10-11</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,128.19. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,127.20. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 21,395 MWh<br>
-        - Generación Hidráulica: 16,363 MWh<br>
-        - Generación Térmica: 4,861 MWh<br>
-        - Demanda Máxima Registrada: 3,163 MW<br>
-        - Cota Mazar (Promedio): 2,128.19 m.s.n.m.<br><br>
+        - Producción Total: 21,279 MWh<br>
+        - Generación Hidráulica: 15,290 MWh<br>
+        - Generación Térmica: 5,875 MWh<br>
+        - Demanda Máxima Registrada: 3,142 MW<br>
+        - Cota Mazar (Promedio): 2,127.20 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 38.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 4.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 46.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 41.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 89.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 70.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 31.9 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 25.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 12.7 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 8.3 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Manta (Manabí): Lluvia acumulada 3 días: 4.5 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 32.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 74.3 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Santo Domingo: Lluvia acumulada 3 días: 136.4 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 93.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 16.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 20.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 10.1 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
-        === REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 4 km NE of Río Grande, Panama | Fecha: 2026-10-10 10:35:11<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 6 km SSE of Llano de Piedra, Panama | Fecha: 2026-10-10 07:13:30<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 10 km SE of Pedasí, Panama | Fecha: 2026-10-10 06:47:49<br>⚠️ SISMO DETECTADO: Magnitud 4.9 | Ubicación: 26 km SSE of Pedasí, Panama | Fecha: 2026-10-10 06:30:03<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 26 km S of Pedasí, Panama | Fecha: 2026-10-10 06:27:09<br>⚠️ SISMO DETECTADO: Magnitud 4.9 | Ubicación: 10 km SSW of Cañas, Panama | Fecha: 2026-10-10 06:18:55<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 25 km SSE of Pedasí, Panama | Fecha: 2026-10-10 06:16:32<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 6 km WSW of Filadelfia, Colombia | Fecha: 2026-10-10 05:45:59<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 9 km WNW of Flores, Panama | Fecha: 2026-10-10 04:33:03<br>⚠️ SISMO DETECTADO: Magnitud 6.0 | Ubicación: 7 km N of La Tronosa, Panama | Fecha: 2026-10-10 04:14:01<br><br>
+        === REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 5.0 | Ubicación: 3 km NW of Flores, Panama | Fecha: 2026-10-11 01:50:52<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 18 km WNW of Río Grande, Panama | Fecha: 2026-10-11 00:06:09<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 2 km WNW of El Cacao, Panama | Fecha: 2026-10-10 16:05:42<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 11 km SSW of Tebario, Panama | Fecha: 2026-10-10 15:58:19<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 5 km WNW of Guarumal, Panama | Fecha: 2026-10-10 14:59:23<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 10 km NNW of El Cortezo, Panama | Fecha: 2026-10-10 14:51:45<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 12 km NE of La Tronosa, Panama | Fecha: 2026-10-10 13:46:56<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 4 km NW of Los Asientos, Panama | Fecha: 2026-10-10 13:22:13<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 4 km NE of Río Grande, Panama | Fecha: 2026-10-10 10:35:11<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 6 km SSE of Llano de Piedra, Panama | Fecha: 2026-10-10 07:13:30<br><br>
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Ministerio de Energía anuncia que las industrias tendrán desconexiones eléctricas de tres días a la semana desde el 12 de octubre<br>   Enlace: https://www.primicias.ec/economia/industrias-desconexiones-ministerio-energia-electricidad-luz-134548/<br>2. Gobierno dispone cortes de luz para industrias durante el feriado por baja generación eléctrica<br>   Enlace: https://www.ecuavisa.com/ecuador/gobierno-dispone-cortes-luz-industrias-durante-feriado-20261009-0034.html<br>3. Gobierno anuncia cortes de luz a industrias durante el feriado para "proteger el suministro"<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-09-gobierno-cortes-luz-industrias-feriado-proteger-suministro-BE11269679<br>4. Ecuador amplía cortes de luz a industrias de 48 a 72 horas semanales desde el 12 de octubre<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-08-ecuador-amplia-cortes-luz-industrias-48-72-horas-semanales-12-de-octubre-FE11268638<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Gobierno de Ecuador dispone medidas "para proteger el suministro eléctrico del país"<br>   Enlace: https://www.primicias.ec/economia/gobierno-ecuador-medidas-suministro-electrico-desconexion-industrias-134604/<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Ministerio de Energía anuncia que las industrias tendrán desconexiones eléctricas de tres días a la semana desde el 12 de octubre<br>   Enlace: https://www.primicias.ec/economia/industrias-desconexiones-ministerio-energia-electricidad-luz-134548/<br>2. Gremios empresariales piden al Gobierno revisar los cortes de luz de hasta 72 horas<br>   Enlace: https://www.ecuavisa.com/ecuador/industrias-reclaman-piden-gobierno-replantear-cortes-luz--20261010-0008.html<br>3. Cortes de luz en Quito: EEQ atribuye interrupciones a daños durante labores del Metro<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-10-cortes-de-luz-quito-eeq-atribuye-interrupciones-danos-labores-del-metro-NF11270269<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Gobierno de Ecuador dispone medidas "para proteger el suministro eléctrico del país"<br>   Enlace: https://www.primicias.ec/economia/gobierno-ecuador-medidas-suministro-electrico-desconexion-industrias-134604/<br>2. Embalse de Mazar está a 12 metros de su nivel mínimo de operación<br>   Enlace: https://www.ecuavisa.com/ecuador/embalse-mazar-metros-nivel-minimo-operacion-20261010-0029.html<br>
         ]]></description>
-        <pubDate>Sat, 10 Oct 2026 13:00:02 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 13:00:01 GMT</pubDate>
     </item>
 
 </channel>

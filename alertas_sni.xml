@@ -4,38 +4,38 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 13 Oct 2026 13:00:01 GMT</pubDate>
+    <pubDate>Wed, 14 Oct 2026 13:00:01 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-13</title>
+        <title>Informe Operativo Diario SNI - 2026-10-14</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,124.97. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,125.36. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 21,070 MWh<br>
-        - Generación Hidráulica: 14,607 MWh<br>
-        - Generación Térmica: 6,338 MWh<br>
-        - Demanda Máxima Registrada: 3,268 MW<br>
-        - Cota Mazar (Promedio): 2,124.97 m.s.n.m.<br><br>
+        - Producción Total: 18,984 MWh<br>
+        - Generación Hidráulica: 12,293 MWh<br>
+        - Generación Térmica: 6,579 MWh<br>
+        - Demanda Máxima Registrada: 2,964 MW<br>
+        - Cota Mazar (Promedio): 2,125.36 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 23.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 4.6 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 3.2 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Machala (El Oro): Lluvia acumulada 3 días: 45.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 33.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 43.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 19.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 13.3 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 11.0 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 34.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 45.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 101.6 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Machala (El Oro): Lluvia acumulada 3 días: 28.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 72.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 18.7 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 11.1 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Loja (Sur): Lluvia acumulada 3 días: 3.1 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 18.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
-        === REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 14 km WNW of Río Grande, Panama | Fecha: 2026-10-13 06:39:04<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 9 km SSE of La Mesa, Panama | Fecha: 2026-10-13 02:48:02<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km WNW of Río Grande, Panama | Fecha: 2026-10-13 00:02:01<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 24 km SW of Zapotillo, Panama | Fecha: 2026-10-12 23:45:13<br>⚠️ SISMO DETECTADO: Magnitud 4.9 | Ubicación: 17 km W of Río Grande, Panama | Fecha: 2026-10-12 23:36:46<br>⚠️ SISMO DETECTADO: Magnitud 6.1 | Ubicación: 17 km W of Río Grande, Panama | Fecha: 2026-10-12 23:20:36<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 5 km WSW of Calidonia, Panama | Fecha: 2026-10-12 21:48:54<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 21 km WNW of Río Grande, Panama | Fecha: 2026-10-12 21:43:30<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 25 km W of Río Grande, Panama | Fecha: 2026-10-12 20:05:25<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 6 km W of Tonosí, Panama | Fecha: 2026-10-12 13:17:18<br><br>
+        === REPORTE SÍSMICO REGIONAL (USGS) ===<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 10 km S of La Mesa, Panama | Fecha: 2026-10-14 05:09:35<br>⚠️ SISMO DETECTADO: Magnitud 4.8 | Ubicación: 5 km NW of Cepitá, Colombia | Fecha: 2026-10-13 21:24:21<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 26 km SSW of Zapotillo, Panama | Fecha: 2026-10-13 12:51:32<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 14 km WNW of Río Grande, Panama | Fecha: 2026-10-13 06:39:04<br>⚠️ SISMO DETECTADO: Magnitud 4.7 | Ubicación: 9 km SSE of La Mesa, Panama | Fecha: 2026-10-13 02:48:02<br>⚠️ SISMO DETECTADO: Magnitud 4.6 | Ubicación: 23 km WNW of Río Grande, Panama | Fecha: 2026-10-13 00:02:01<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 24 km SW of Zapotillo, Panama | Fecha: 2026-10-12 23:45:13<br>⚠️ SISMO DETECTADO: Magnitud 4.9 | Ubicación: 17 km W of Río Grande, Panama | Fecha: 2026-10-12 23:36:46<br>⚠️ SISMO DETECTADO: Magnitud 6.1 | Ubicación: 17 km W of Río Grande, Panama | Fecha: 2026-10-12 23:20:36<br>⚠️ SISMO DETECTADO: Magnitud 4.5 | Ubicación: 5 km WSW of Calidonia, Panama | Fecha: 2026-10-12 21:48:54<br><br>
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. CNEL confirma "afectaciones al servicio eléctrico en varios sectores " de siete cantones de Guayas por falla en subestación<br>   Enlace: https://www.primicias.ec/sociedad/cnel-afectaciones-servicio-electrico-cantones-guayas-falla-subestacion-134718/<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Los accionistas de la petrolera Gran Tierra Energy aprueban la venta de activos en Colombia y Ecuador por USD 1.330 millones<br>   Enlace: https://www.primicias.ec/economia/empresas/accionistas-petrolera-gran-tierra-energy-venta-colombia-134664/<br>2. Caso de Carolina Pérez pasará a la Fiscalía de Género, afirma su familia, que insiste en que su lucha no ha terminado<br>   Enlace: https://www.primicias.ec/sociedad/funeral-huaca-carolina-perez-desaparecida-quito-investigacion-fiscalia-genero-134761/<br>3. Clima en Ecuador: Inamhi pronostica lluvias intensas y tormentas eléctricas hasta el 16 de octubre<br>   Enlace: https://www.primicias.ec/sociedad/lluvias-intensas-ecuador-clima-inamhi-del13al16octubre-fenomeno-nino-134760/<br>4. 32 generadores de ATM son incompatibles con el sistema eléctrico de Ecuador<br>   Enlace: https://www.ecuavisa.com/ecuador/32-generadores-atm-incompatibles-sistema-electrico-ecuador-20261012-0055.html<br>5. Mazar está a nueve metros del nivel mínimo<br>   Enlace: https://www.ecuavisa.com/video/Mazar-esta-a-nueve-metros-del-nivel-minimo-ve202610120012.html<br>6. De los 48 generadores de ATM que estaban apagados, 16 empiezan a operar para aportar 30 MW<br>   Enlace: https://www.vistazo.com/politica/2026-10-12-generadores-atm-apagados-empiezan-operar-aportan-30-mw-CF11271416<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Gobierno descarta cortes de luz para hogares, hospitales e instituciones educativas<br>   Enlace: https://www.primicias.ec/economia/cortes-luz-gobierno-nataly-morillo-hogares-hospitales-instituciones-educativas-134805/<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Estado garantizará compra del 60% de la electricidad a plantas a gas natural, geotérmicas o nucleares en Ecuador<br>   Enlace: https://www.primicias.ec/economia/plantas-electricidad-empresas-gas-natural-nuclear-geotermicas-reglamento-ley-134806/<br>2. Situación eléctrica en Ecuador<br>   Enlace: https://www.primicias.ec/economia/electricidad-ecuador-mazar-cenace-celec-hidrolectrica-coca-codo-paute-134735/<br>3. Venta de electrodomésticos crece sobre el 8 % en Ecuador y toma impulso con mayor inversión y expansión de marcas<br>   Enlace: https://www.eluniverso.com/economia/industrias/electrodomesticos-ventas-crecimiento-inversion-marcas-teka-watson-ecuador-2026-nota/<br>4. Crisis eléctrica en Ecuador tiene cuatro causas principales, según Consejo Consultivo<br>   Enlace: https://www.ecuavisa.com/economia/crisis-electrica-ecuador-cuatro-causas-principales-20261013-0085.html<br>5. Más de la mitad de los exámenes de Contraloría a gobiernos locales termina con indicios penales<br>   Enlace: https://www.ecuavisa.com/politica/mas-mitad-examenes-contraloria-gad-indicios-penales-20261014-0001.html<br>
         ]]></description>
-        <pubDate>Tue, 13 Oct 2026 13:00:01 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 13:00:01 GMT</pubDate>
     </item>
 
 </channel>

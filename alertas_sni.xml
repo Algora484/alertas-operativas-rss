@@ -4,28 +4,28 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Mon, 19 Oct 2026 13:00:01 GMT</pubDate>
+    <pubDate>Tue, 20 Oct 2026 13:00:01 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-19</title>
+        <title>Informe Operativo Diario SNI - 2026-10-20</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,122.98. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,122.11. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 20,968 MWh<br>
-        - Generación Hidráulica: 13,292 MWh<br>
-        - Generación Térmica: 7,505 MWh<br>
-        - Demanda Máxima Registrada: 3,151 MW<br>
-        - Cota Mazar (Promedio): 2,122.98 m.s.n.m.<br><br>
+        - Producción Total: 21,704 MWh<br>
+        - Generación Hidráulica: 14,287 MWh<br>
+        - Generación Térmica: 7,295 MWh<br>
+        - Demanda Máxima Registrada: 3,286 MW<br>
+        - Cota Mazar (Promedio): 2,122.11 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 27.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 23.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 31.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 33.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 148.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 64.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 30.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 4.2 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 30.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 51.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 32.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 37.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 52.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Santo Domingo: Lluvia acumulada 3 días: 64.0 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 85.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 35.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 9.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 17.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
@@ -33,9 +33,9 @@
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Celec concluyó mantenimientos programados en subestaciones de transmisión eléctrica en Ecuador<br>   Enlace: https://www.primicias.ec/economia/celec-mantenimientos-subestaciones-transmision-cortes-luz-electricidad-cnel-quito-guayaquil-ecuador-135147/<br>2. Cortes de luz por mantenimientos serán en 15 provincias de Ecuador la madrugada del 17 de octubre<br>   Enlace: https://www.primicias.ec/economia/trabajos-mantenimiento-programado-cortes-luz-ecuador-17octubre-135139/<br>3. Cortes de luz este sábado 17 de octubre en sectores de 15 provincias de Ecuador<br>   Enlace: https://www.ecuavisa.com/ecuador/ciudades-ecuador-cortes-luz-este-sabado-por-trabajos-de-mantenimiento-20261016-0085.html<br>4. Cortes de luz este sábado 17 de octubre: estas son las zonas afectadas en Guayaquil, Durán y Samborondón<br>   Enlace: https://www.ecuavisa.com/guayaquil/cortes-luz-guayaquil-duran-samborondon-sabado-17-octubre-zonas-20261016-0089.html<br>5. Corte determina que acuerdo comercial entre Ecuador y EE.UU. requiere aprobación de la Asamblea<br>   Enlace: https://www.vistazo.com/politica/2026-10-16-corte-determina-acuerdo-comercial-ecuador-ee-uu-aprobacion-asamblea-MF11278589<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Terminal Pascuales atenderá este domingo para el despacho de diésel, ante el incremento de la demanda<br>   Enlace: https://www.primicias.ec/economia/terminal-pascuales-domingo-despacho-diesel-incremento-demanda-estaciones-servicio-combustible-industrias-electricidad-petroecuador-135180/<br>2. Mayor demanda de diésel de los sectores eléctrico e industrial incrementa el consumo de este combustible en Ecuador<br>   Enlace: https://www.primicias.ec/economia/consumo-diesel-demanda-termoelectricas-electricidad-sector-industrial-importacion-refineria-esmeraldas-135024/<br>3. Tendencia firme en Ecuador: El interés por autos híbridos y eléctricos se consolida en Automundo 2026<br>   Enlace: https://www.primicias.ec/economia/carros-hibridos-electricos-automundo-2026-ecuador-135109/<br>4. Crisis eléctrica en Ecuador dispara el consumo de diésel a 112 mil barriles diarios<br>   Enlace: https://www.ecuavisa.com/ecuador/aumenta-demanda-diesel-crisis-electrica-ecuador-20261018-0041.html<br>5. Villonaco III: Trasladan por carretera generadores de hasta 85 toneladas hacia Loja<br>   Enlace: https://www.ecuavisa.com/ecuador/villonaco-3-trasladan-por-carretera-generadores-hasta-85-toneladas-hacia-loja-20261018-0042.html<br>6. Embalses siguen bajando y Colombia redujo su venta<br>   Enlace: https://www.ecuavisa.com/video/Embalses-siguen-bajando-y-Colombia-redujo-su-venta-ve202610180002.html<br>7. Progen insiste en que funcionarios de Celec rindan versión en EE. UU.<br>   Enlace: https://www.ecuavisa.com/video/Progen-insiste-en-que-funcionarios-de-Celec-rindan-version-en-EE.-UU.-ve202610160012.html<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Alberto Acosta Burneo plantea flexibilizar horarios laborales ante los apagones<br>   Enlace: https://www.ecuavisa.com/economia/alberto-acosta-burneo-plantea-flexibilizar-horarios-laborales-20261019-0091.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Villonaco III, proyecto eólico que aportará 110 MW, entrará en operación en el tercer trimestre de 2027<br>   Enlace: https://www.primicias.ec/economia/villonaco-proyecto-eolico-operacion-tercer-trimestre-retrasos-inversion-privada-135248/<br>2. Carros futuristas híbridos y eléctricos, robots inteligentes y nuevas tecnologías en la International User Summit en China<br>   Enlace: https://www.primicias.ec/economia/carros-chinos-precios-hibridos-electricos-ia-summit-china-2026-135182/<br>3. Terminal Pascuales atenderá este domingo para el despacho de diésel, ante el incremento de la demanda<br>   Enlace: https://www.primicias.ec/economia/terminal-pascuales-domingo-despacho-diesel-incremento-demanda-estaciones-servicio-combustible-industrias-electricidad-petroecuador-135180/<br>4. Pronóstico del clima para este martes 20 de octubre: lluvias y tormentas eléctricas durante la tarde y noche en Ecuador<br>   Enlace: https://www.eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-martes-20-de-octubre-lluvias-y-tormentas-electricas-durante-la-tarde-y-noche-en-ecuador-nota/<br>
         ]]></description>
-        <pubDate>Mon, 19 Oct 2026 13:00:01 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 13:00:01 GMT</pubDate>
     </item>
 
 </channel>

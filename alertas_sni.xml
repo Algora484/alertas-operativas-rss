@@ -4,28 +4,28 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Tue, 20 Oct 2026 13:00:01 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2026 13:00:02 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-20</title>
+        <title>Informe Operativo Diario SNI - 2026-10-21</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,122.11. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,121.39. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 21,704 MWh<br>
-        - Generación Hidráulica: 14,287 MWh<br>
-        - Generación Térmica: 7,295 MWh<br>
-        - Demanda Máxima Registrada: 3,286 MW<br>
-        - Cota Mazar (Promedio): 2,122.11 m.s.n.m.<br><br>
+        - Producción Total: 20,700 MWh<br>
+        - Generación Hidráulica: 13,150 MWh<br>
+        - Generación Térmica: 7,444 MWh<br>
+        - Demanda Máxima Registrada: 3,160 MW<br>
+        - Cota Mazar (Promedio): 2,121.39 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 51.7 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 32.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 37.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 52.2 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Santo Domingo: Lluvia acumulada 3 días: 64.0 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 85.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 35.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 9.4 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 17.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 28.9 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 19.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 22.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 37.6 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Santo Domingo: Lluvia acumulada 3 días: 41.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 54.4 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 38.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 12.5 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 21.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
@@ -33,9 +33,9 @@
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Alberto Acosta Burneo plantea flexibilizar horarios laborales ante los apagones<br>   Enlace: https://www.ecuavisa.com/economia/alberto-acosta-burneo-plantea-flexibilizar-horarios-laborales-20261019-0091.html<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Villonaco III, proyecto eólico que aportará 110 MW, entrará en operación en el tercer trimestre de 2027<br>   Enlace: https://www.primicias.ec/economia/villonaco-proyecto-eolico-operacion-tercer-trimestre-retrasos-inversion-privada-135248/<br>2. Carros futuristas híbridos y eléctricos, robots inteligentes y nuevas tecnologías en la International User Summit en China<br>   Enlace: https://www.primicias.ec/economia/carros-chinos-precios-hibridos-electricos-ia-summit-china-2026-135182/<br>3. Terminal Pascuales atenderá este domingo para el despacho de diésel, ante el incremento de la demanda<br>   Enlace: https://www.primicias.ec/economia/terminal-pascuales-domingo-despacho-diesel-incremento-demanda-estaciones-servicio-combustible-industrias-electricidad-petroecuador-135180/<br>4. Pronóstico del clima para este martes 20 de octubre: lluvias y tormentas eléctricas durante la tarde y noche en Ecuador<br>   Enlace: https://www.eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-martes-20-de-octubre-lluvias-y-tormentas-electricas-durante-la-tarde-y-noche-en-ecuador-nota/<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. CNEL EP confirma mantenimientos programados en Manabí y Los Ríos, conozca los horarios de los cortes de luz<br>   Enlace: https://www.primicias.ec/economia/mantenimientos-programados-manabi-rios-horarios-cortes-luz-cnelep-135332/<br>2. Gobierno difunde segundo listado de empresas que habrían incumplido desconexiones<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-15-gobierno-difunde-segundo-listado-empresas-no-cumplen-desconexiones-AF11277135<br>3. CNEL anuncia nuevos cortes de luz por mantenimiento en Los Ríos y Manabí: estos son los sectores y horarios<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-20-cnel-nuevos-cortes-luz-mantenimiento-los-rios-manabi-HK11282630<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. China y la UE lideran ahorro mundial por su aumento de vehículos eléctricos en medio de la crisis energética<br>   Enlace: https://www.primicias.ec/economia/china-ue-ahorro-mundial-vehiculos-electricos-estrecho-ormuz-135241/<br>2. Villonaco III, proyecto eólico que aportará 110 MW, entrará en operación en el tercer trimestre de 2027<br>   Enlace: https://www.primicias.ec/economia/villonaco-proyecto-eolico-operacion-tercer-trimestre-retrasos-inversion-privada-135248/<br>3. Carros futuristas híbridos y eléctricos, robots inteligentes y nuevas tecnologías en la International User Summit en China<br>   Enlace: https://www.primicias.ec/economia/carros-chinos-precios-hibridos-electricos-ia-summit-china-2026-135182/<br>4. Guayaquil tendrá hasta 33 °C este miércoles 21 de octubre: el calor dará paso a lluvias y tormentas eléctricas<br>   Enlace: https://www.eluniverso.com/comunidad/guayaquil/guayaquil-tendra-hasta-33-c-este-miercoles-21-de-octubre-el-calor-dara-paso-a-lluvias-y-tormentas-electricas-nota/<br>5. Pronóstico del clima para este miércoles 21 de octubre: tormentas eléctricas en la Costa y temperaturas de hasta 33 °C<br>   Enlace: https://www.eluniverso.com/comunidad/ecuador/pronostico-del-clima-para-este-miercoles-21-de-octubre-tormentas-electricas-en-la-costa-y-temperaturas-de-hasta-33-c-nota/<br>6. VIDEO | Así se vio la tormenta eléctrica en Quito la noche del 20 de octubre<br>   Enlace: https://www.ecuavisa.com/quito/video-tormenta-electrica-quito-20-octubre-20261020-0079.html<br>7. Daniel Noboa y Keiko Fujimori firman acuerdos entre Ecuador y Perú sobre seguridad, energía y comercio<br>   Enlace: https://ecuadornoticias.com/acuerdos-ecuador-peru-noboa-fujimori/<br>8. Transportistas alertan por problemas con el diésel en Ecuador ante mayor demanda termoeléctrica<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-20-transportistas-alertan-problemas-diesel-ecuador-mayor-demanda-termoelectrica-MK11283528<br>
         ]]></description>
-        <pubDate>Tue, 20 Oct 2026 13:00:01 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 13:00:02 GMT</pubDate>
     </item>
 
 </channel>

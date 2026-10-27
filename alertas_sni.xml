@@ -4,28 +4,28 @@
     <title>Boletín Operativo SNI - Produbanco</title>
     
     <description>Monitoreo automatizado y unificado del Sistema Nacional Interconectado de Ecuador.</description>
-    <pubDate>Mon, 26 Oct 2026 13:00:02 GMT</pubDate>
+    <pubDate>Tue, 27 Oct 2026 13:00:01 GMT</pubDate>
     <language>es-ec</language>
 
     <item>
-        <title>Informe Operativo Diario SNI - 2026-10-26</title>
+        <title>Informe Operativo Diario SNI - 2026-10-27</title>
         
         <description><![CDATA[
         <b>1. ESTADO DEL SNI Y ALERTAS (Mínimo operativo: 2096 m.s.n.m.)</b><br>
-        [CRÍTICO] Riesgo: Cota Mazar en 2,123.58. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
+        [CRÍTICO] Riesgo: Cota Mazar en 2,123.77. Monitoreo preventivo porsibles cortes en varias zonas.<br><br>
         
 
         
         <b>2. DETALLE TÉCNICO DE GENERACIÓN Y DEMANDA</b><br>
-        - Producción Total: 20,615 MWh<br>
-        - Generación Hidráulica: 13,299 MWh<br>
-        - Generación Térmica: 7,265 MWh<br>
-        - Demanda Máxima Registrada: 3,173 MW<br>
-        - Cota Mazar (Promedio): 2,123.58 m.s.n.m.<br><br>
+        - Producción Total: 20,549 MWh<br>
+        - Generación Hidráulica: 13,453 MWh<br>
+        - Generación Térmica: 6,999 MWh<br>
+        - Demanda Máxima Registrada: 3,195 MW<br>
+        - Cota Mazar (Promedio): 2,123.77 m.s.n.m.<br><br>
         
         <hr>
         <b>3. MONITOREO CLIMÁTICO Y RIESGOS</b><br>
-        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 47.0 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Manta (Manabí): Lluvia acumulada 3 días: 42.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 27.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 79.0 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Santo Domingo: Lluvia acumulada 3 días: 64.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 67.6 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 16.1 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Loja (Sur): Lluvia acumulada 3 días: 19.4 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 35.2 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
+        === MONITOREO CLIMÁTICO Y MEGA EL NIÑO (Próximos 3 días) ===<br><br>COSTA (Riesgo de Inundaciones y Daño a Infraestructura):<br> - Guayaquil (Guayas): Lluvia acumulada 3 días: 52.9 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Manta (Manabí): Lluvia acumulada 3 días: 29.5 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Esmeraldas (Esmeraldas): Lluvia acumulada 3 días: 20.3 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Machala (El Oro): Lluvia acumulada 3 días: 51.8 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Santo Domingo: Lluvia acumulada 3 días: 55.1 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br><br>SIERRA (Riesgo de Deslaves y Afectación a Represas):<br> - Quito (Pichincha): Lluvia acumulada 3 días: 69.4 mm |  RIESGO CRÍTICO EL NIÑO (Tormentas severas. Alto riesgo de inundaciones/deslaves).<br> - Cuenca (Azuay - Zona Austro): Lluvia acumulada 3 días: 14.7 mm |  RIESGO LEVE (Lluvias moderadas. Operación normal).<br> - Loja (Sur): Lluvia acumulada 3 días: 49.8 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br> - Baños (Tungurahua - Centro): Lluvia acumulada 3 días: 48.1 mm |  RIESGO MODERADO (Lluvias fuertes. Posibles cortes locales).<br><br>
         
         <hr>
         <b>4. REPORTE SÍSMICO REGIONAL</b><br>
@@ -33,9 +33,9 @@
         
         <hr>
         <b>5. CONTEXTO INFORMATIVO Y NOTICIAS</b><br>
-        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>✅ No se detectaron anuncios de cortes o emergencias en los últimos 3 días.<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Proyectos petroleros en Ecuador con demanda eléctrica superior a 10 megavatios deberán contar con autogeneración<br>   Enlace: https://www.primicias.ec/economia/proyectos-petroleros-demanda-electrica-autogeneracion-mineros-reglamento-ley-135536/<br>2. Fuertes lluvias y tormentas eléctricas en Ecuador seguirán hasta el 28 de octubre, advierte el Inamhi<br>   Enlace: https://www.primicias.ec/sociedad/ecuador-lluvias-tormentas-inundaciones-fenomeno-elnino-inamhi-135692/<br>3. Guayaquil soporta una de las tormentas eléctricas más prolongadas de esta temporada de lluvias<br>   Enlace: https://www.eluniverso.com/comunidad/guayaquil/guayaquil-soporta-una-de-las-tormentas-electricas-mas-prolongadas-de-esta-temporada-de-lluvias-nota/<br>4. CNEL atendió 300 incidencias eléctricas provocadas por las lluvias en Guayas<br>   Enlace: https://www.ecuavisa.com/ecuador/cnel-atendio-300-incidencias-electricas-provocadas-lluvias-guayas-20261025-0028.html<br>5. Generación eléctrica: Mazar se recupera de a poco y Coca Codo sostiene<br>   Enlace: https://www.ecuavisa.com/video/Generacion-electrica-Mazar-se-recupera-de-a-poco-y-Coca-Codo-sostiene-ve202610230008.html<br>
+        <br>=== ⚠️ ALERTAS CRÍTICAS (ÚLTIMOS 3 DÍAS): CORTES Y HORARIOS ===<br>1. Gobierno de Ecuador analiza alivio tributario para empresas que se acogieron a la desconexión eléctrica<br>   Enlace: https://www.primicias.ec/politica/daniel-noboa-alivio-tributario-empresas-desconexiones-electricidad-industrias-135713/<br><br>=== ℹ️ NOTICIAS GENERALES DEL SECTOR ELÉCTRICO (ÚLTIMOS 3 DÍAS) ===<br>1. Licuadoras, microondas y air fryers lideran ventas de electrodomésticos menores en Ecuador, a puertas del Black Friday<br>   Enlace: https://www.primicias.ec/economia/empresas/electrodomesticos-menores-ventas-black-friday-2026-empresas-negocios-135740/<br>2. Estas son siete claves estructurales que explican el déficit en el sector eléctrico de Ecuador<br>   Enlace: https://www.primicias.ec/economia/tarifas-pago-privados-electricidad-factores-crisis-dependencia-135783/<br>3. Ministerio de Ambiente y Energía ofrece fondos por USD 50.000 para emprendimientos sostenibles de Ecuador, ¿cómo postular?<br>   Enlace: https://www.primicias.ec/economia/negocios-emprendimientos-sostenibles-ecuador-fondo-semilla-postulacion-cultivainnovacion2026-135747/<br>4. Gobierno ofrece a minera china que invierta en la hidroeléctrica Cardenillo a cambio del permiso para operar nueva mina de cobre<br>   Enlace: https://www.primicias.ec/economia/minera-china-ecuacorriente-inversion-hidroelectrica-cardenillo-permiso-mina-cobre-mirador-135723/<br>5. Guayaquil colapsó tras intensa lluvia y tormenta eléctrica, 66 sectores quedaron bajo el agua<br>   Enlace: https://www.primicias.ec/guayaquil/lluvias-inundaciones-guayaquil-videos-imagenes-mall-alborada-samanes-fenomeno-nino-26octubre-135755/<br>6. Lluvias con tormentas eléctricas se mantendrán la tarde y noche del 26 de octubre en Quito, Guayaquil y otras ciudades de Ecuador<br>   Enlace: https://www.primicias.ec/sociedad/lluvias-tormentas-clima-inamhi-26octubre-ecuador-fenomeno-elnino-135746/<br>7. Embalse de Mazar baja a 2 123 metros en medio de la demanda eléctrica<br>   Enlace: https://www.ecuavisa.com/ecuador/embalse-mazar-baja-2123-metros-en-medio-demanda-electrica-20261026-0065.html<br>8. Aeropuerto de Guayaquil estudiará su ampliación y cuándo debe empezar la nueva terminal<br>   Enlace: https://www.ecuavisa.com/guayaquil/aeropuerto-guayaquil-licita-estudio-ampliacion-20261026-0074.html<br>9. Lluvias en Quito dejaron caída de árboles y poste de luz<br>   Enlace: https://www.ecuavisa.com/liveblogs/quito-registra-intensa-lluvia-26-octubre-en-vivo-lb202610260002.html<br>10. Willian Pacho hace historia para Ecuador al terminar en el puesto 20 del Balón de Oro 2026<br>   Enlace: https://ecuadornoticias.com/willian-pacho-puesto-20-balon-de-oro-2026/<br>11. Tormenta eléctrica paraliza a Guayaquil: calles inundadas, cierre de túneles y operaciones suspendidas en el aeropuerto<br>   Enlace: https://www.vistazo.com/actualidad/2026-10-26-tormenta-electrica-paraliza-guayaquil-calles-inundadas-cierre-tuneles-operaciones-suspendidas-aeropuerto-CL11291704<br>12. La granja solar Río de Oro Energy formalizó el inicio de su alianza con Pica<br>   Enlace: https://www.vistazo.com/negocios/empresas/2026-10-26-granja-solar-rio-oro-energy-formalizo-inicio-alianza-pica-JL11291019<br>13. ¿Cómo proteger a tus mascotas durante las tormentas eléctricas en Ecuador?<br>   Enlace: https://www.vistazo.com/tendencias/mascotas/2026-10-26-como-proteger-mascotas-durante-tormentas-electricas-ecuador-PL11290791<br>
         ]]></description>
-        <pubDate>Mon, 26 Oct 2026 13:00:02 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 13:00:01 GMT</pubDate>
     </item>
 
 </channel>
